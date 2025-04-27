@@ -1,4 +1,4 @@
-**Deep Learning-based Digit Recognition Using MNIST Dataset**
+*Deep Learning-based Digit Recognition Using MNIST Dataset*
 
 ---
 
