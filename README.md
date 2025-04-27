@@ -4,7 +4,7 @@
 
 # Abstract
 
-This article presents a project focused on handwritten digit recognition using deep learning techniques. The project leverages the MNIST dataset, which is a benchmark dataset in the computer vision community, and applies a custom-built neural network implemented in PyTorch. The steps include data preprocessing, model development, training, and evaluation. Although basic in its structure, this project lays the foundation for understanding how deep learning models operate in image classification tasks.
+This project focused on handwritten digit recognition using deep learning techniques. The project leverages the MNIST dataset, which is a benchmark dataset in the computer vision community, and applies a custom-built neural network implemented in PyTorch. The steps include data preprocessing, model development, training, and evaluation. Although basic in its structure, this project lays the foundation for understanding how deep learning models operate in image classification tasks.
 
 # 1. Introduction
 
