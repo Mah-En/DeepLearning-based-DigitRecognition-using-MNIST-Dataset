@@ -1,5 +1,5 @@
 
-# Deep Learning-based Digit Recognition Using MNIST Dataset
+# GAN-based Digit Recognition Using MNIST Dataset
 
 ## Abstract
 
